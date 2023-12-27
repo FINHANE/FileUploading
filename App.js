@@ -1,4 +1,9 @@
 
+//
+//created by Finhane Artur
+//on Dec/27th/2023
+//12:27 PM
+
  //selecting all required elements
  const dropArea = document.querySelector(".drag-area"),
  dragText = dropArea.querySelector("header"),
